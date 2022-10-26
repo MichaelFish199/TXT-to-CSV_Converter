@@ -1,5 +1,5 @@
 # TXT-to-CSV_FileConverter
-Python file that converts unstructured data to correct csv file.\
+Python file that converts unstructured data to correct csv file.
 
 ![](/sc.jpg)
 
